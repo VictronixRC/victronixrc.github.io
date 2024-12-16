@@ -1,5 +1,5 @@
-theme: jekyll-theme-merlot
 title: VictronixRC
 description: Radio controlled electronics
 show_downloads: false
-#google_analytics: [Your Google Analytics tracking ID]
+google_analytics:
+theme: jekyll-theme-merlot
